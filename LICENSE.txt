@@ -1,0 +1,5 @@
+Copyright (c) 2025 Shreya
+
+All rights reserved. 
+
+No part of this code or any files in this repository may be used, copied, modified, distributed, or published in any form without the express written permission of the copyright holder.
